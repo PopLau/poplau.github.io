@@ -6,10 +6,10 @@ url: http://poplau.github.io
 resume_site: http://www.hifreud.com/Resume.io/
 github: https://github.com/poplau/
 baseurl: ''
-description: Actually, less is more!
+description: 种一棵树最好的时间是十年前，其次是现在。
 meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
-motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+motto: This is motto.
+banner: 种一棵树最好的时间是十年前，其次是现在。
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
